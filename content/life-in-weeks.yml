@@ -1,0 +1,480 @@
+"2002-05-07":
+  - name: "👶 Popped Into Existence"
+    desc: "Born in Kerala and immediately started increasing family expenses."
+    category: birthday
+
+"2003-05-07":
+  - name: "🎂 Level 1 Complete"
+    desc: "Survived the tutorial year."
+    category: birthday
+
+"2004-05-07":
+  - name: "🎂 Turned 2"
+    category: birthday
+
+"2005-05-07":
+  - name: "🎂 Turned 3"
+    category: birthday
+
+"2005-10-05":
+  - name: "✈️ Bahrain Arc Begins"
+    desc: "Packed up and moved to Bahrain."
+    category: life
+
+"2006-04-02":
+  - name: "🎒 School DLC Installed"
+    desc: "Joined IHIS and began the long academic side quest."
+    category: education
+
+"2006-05-07":
+  - name: "🎂 Turned 4"
+    category: birthday
+
+"2007-05-07":
+  - name: "🎂 Turned 5"
+    category: birthday
+
+"2008-05-07":
+  - name: "🎂 Turned 6"
+    category: birthday
+
+"2009-05-07":
+  - name: "🎂 Turned 7"
+    category: birthday
+
+"2009-10-03":
+  - name: "🏥 First Patch Update"
+    desc: "Underwent hernia surgery and got some factory repairs."
+    category: health
+
+"2010-03-01":
+  - name: "🏫 New School, Who Dis?"
+    desc: "Transferred to ISB for the next chapter."
+    category: education
+
+"2010-05-07":
+  - name: "🎂 Turned 8"
+    category: birthday
+
+"2011-05-07":
+  - name: "🎂 Turned 9"
+    category: birthday
+
+"2012-05-07":
+  - name: "🎂 Turned 10"
+    category: birthday
+
+"2013-05-07":
+  - name: "🎂 Turned 11"
+    category: birthday
+
+"2014-04-06":
+  - name: "🍎 Entered The Ecosystem"
+    desc: "Got my first Apple device, an iPad."
+    category: technology
+
+"2014-05-07":
+  - name: "🎂 Turned 12"
+    category: birthday
+
+"2015-05-07":
+  - name: "🎂 Turned 13"
+    category: birthday
+
+"2015-07-11":
+  - name: "🥁 Joined The Band"
+    desc: "Became a bass drummer and discovered loud hobbies."
+    category: hobby
+
+"2016-03-30":
+  - name: "📚 Middle School Escaped"
+    desc: "Completed middle school with most of my sanity intact."
+    category: education
+
+"2016-05-07":
+  - name: "🎂 Turned 14"
+    category: birthday
+
+"2017-05-07":
+  - name: "🎂 Turned 15"
+    category: birthday
+
+"2018-05-07":
+  - name: "🎂 Turned 16"
+    category: birthday
+
+"2019-05-07":
+  - name: "🎂 Turned 17"
+    category: birthday
+
+"2020-02-01":
+  - name: "🦠 The World Paused"
+    desc: "COVID arrived and everyone suddenly became homebodies."
+    category: world
+
+"2020-03-31":
+  - name: "🎓 School: Completed"
+    desc: "Finished high school during peak chaos."
+    category: education
+
+"2020-05-07":
+  - name: "🎂 Turned 18"
+    category: birthday
+
+"2020-06-07":
+  - name: "🏠 Return To Base"
+    desc: "Moved back to Kerala after years in Bahrain."
+    category: life
+
+"2020-10-03":
+  - name: "🎒 College Begins"
+    desc: "Started engineering and a lifelong relationship with deadlines."
+    category: education
+
+"2020-11-20":
+  - name: "🏎️ Hamilton Gets Seven"
+    desc: "Witnessed Lewis Hamilton match Schumacher's record."
+    category: sports
+
+"2021-05-07":
+  - name: "🎂 Turned 19"
+    category: birthday
+
+"2022-01-20":
+  - name: "🤒 COVID Got Me"
+    desc: "Tested positive after dodging it for nearly two years."
+    category: health
+
+"2022-03-12":
+  - name: "💻 First Dev Paycheck"
+    desc: "Started my first developer job at Faatlab."
+    category: career
+
+"2022-05-07":
+  - name: "🎂 Turned 20"
+    category: birthday
+
+"2022-09-01":
+  - name: "👔 Mundu Debut"
+    desc: "Wore a mundu for the first time and somehow survived."
+    category: life
+
+"2023-05-07":
+  - name: "🎂 Turned 21"
+    category: birthday
+
+"2023-06-01":
+  - name: "🚀 Bytsolv Begins"
+    desc: "Started a new chapter at Bytsolv."
+    category: career
+
+"2024-01-31":
+  - name: "📦 Unexpected Freedom"
+    desc: "Got laid off and unlocked a surprise career quest."
+    category: career
+
+"2024-02-11":
+  - name: "💀 Laptop Sacrifice"
+    desc: "Accidentally fried my laptop motherboard."
+    category: technology
+
+"2024-03-20":
+  - name: "🚗 Terrible Day Any%"
+    desc: "Hit a dog and crashed my car in one unforgettable event."
+    category: life
+
+"2024-04-05":
+  - name: "🎓 Degree Acquired"
+    desc: "Graduated with two supplies and zero shame."
+    category: education
+
+"2024-05-07":
+  - name: "🎂 Turned 22"
+    category: birthday
+
+"2024-06-19":
+  - name: "🍎 MacBook Era"
+    desc: "Bought a MacBook Air and voluntarily entered Apple's ecosystem deeper."
+    category: technology
+
+"2024-10-03":
+  - name: "⚕️ StudyMEDIC Arc"
+    desc: "Joined StudyMEDIC as a Backend Engineer."
+    category: career
+
+"2025-05-07":
+  - name: "🎂 Turned 23"
+    category: birthday
+
+"2025-08-11":
+  - name: "🤝 McLynk Is Born"
+    desc: "Co-founded McLynk and signed up for more responsibility."
+    category: start
+
+"2026-05-07":
+  - name: "🎂 Turned 24"
+    category: birthday
+
+"2027-05-07":
+  - name: "🎂 Turned 25"
+    category: birthday
+
+"2028-05-07":
+  - name: "🎂 Turned 26"
+    category: birthday
+
+"2029-05-07":
+  - name: "🎂 Turned 27"
+    category: birthday
+
+"2030-05-07":
+  - name: "🎂 Turned 28"
+    category: birthday
+
+"2031-05-07":
+  - name: "🎂 Turned 29"
+    category: birthday
+
+"2032-05-07":
+  - name: "🎂 Turned 30"
+    category: birthday
+
+"2033-05-07":
+  - name: "🎂 Turned 31"
+    category: birthday
+
+"2034-05-07":
+  - name: "🎂 Turned 32"
+    category: birthday
+
+"2035-05-07":
+  - name: "🎂 Turned 33"
+    category: birthday
+
+"2036-05-07":
+  - name: "🎂 Turned 34"
+    category: birthday
+
+"2037-05-07":
+  - name: "🎂 Turned 35"
+    category: birthday
+
+"2038-05-07":
+  - name: "🎂 Turned 36"
+    category: birthday
+
+"2039-05-07":
+  - name: "🎂 Turned 37"
+    category: birthday
+
+"2040-05-07":
+  - name: "🎂 Turned 38"
+    category: birthday
+
+"2041-05-07":
+  - name: "🎂 Turned 39"
+    category: birthday
+
+"2042-05-07":
+  - name: "🎂 Turned 40"
+    category: birthday
+
+"2043-05-07":
+  - name: "🎂 Turned 41"
+    category: birthday
+
+"2044-05-07":
+  - name: "🎂 Turned 42"
+    category: birthday
+
+"2045-05-07":
+  - name: "🎂 Turned 43"
+    category: birthday
+
+"2046-05-07":
+  - name: "🎂 Turned 44"
+    category: birthday
+
+"2047-05-07":
+  - name: "🎂 Turned 45"
+    category: birthday
+
+"2048-05-07":
+  - name: "🎂 Turned 46"
+    category: birthday
+
+"2049-05-07":
+  - name: "🎂 Turned 47"
+    category: birthday
+
+"2050-05-07":
+  - name: "🎂 Turned 48"
+    category: birthday
+
+"2051-05-07":
+  - name: "🎂 Turned 49"
+    category: birthday
+
+"2052-05-07":
+  - name: "🎂 Turned 50"
+    category: birthday
+
+"2053-05-07":
+  - name: "🎂 Turned 51"
+    category: birthday
+
+"2054-05-07":
+  - name: "🎂 Turned 52"
+    category: birthday
+
+"2055-05-07":
+  - name: "🎂 Turned 53"
+    category: birthday
+
+"2056-05-07":
+  - name: "🎂 Turned 54"
+    category: birthday
+
+"2057-05-07":
+  - name: "🎂 Turned 55"
+    category: birthday
+
+"2058-05-07":
+  - name: "🎂 Turned 56"
+    category: birthday
+
+"2059-05-07":
+  - name: "🎂 Turned 57"
+    category: birthday
+
+"2060-05-07":
+  - name: "🎂 Turned 58"
+    category: birthday
+
+"2061-05-07":
+  - name: "🎂 Turned 59"
+    category: birthday
+
+"2062-05-07":
+  - name: "🎂 Turned 60"
+    category: birthday
+
+"2063-05-07":
+  - name: "🎂 Turned 61"
+    category: birthday
+
+"2064-05-07":
+  - name: "🎂 Turned 62"
+    category: birthday
+
+"2065-05-07":
+  - name: "🎂 Turned 63"
+    category: birthday
+
+"2066-05-07":
+  - name: "🎂 Turned 64"
+    category: birthday
+
+"2067-05-07":
+  - name: "🎂 Turned 65"
+    category: birthday
+
+"2068-05-07":
+  - name: "🎂 Turned 66"
+    category: birthday
+
+"2069-05-07":
+  - name: "🎂 Turned 67"
+    category: birthday
+
+"2070-05-07":
+  - name: "🎂 Turned 68"
+    category: birthday
+
+"2071-05-07":
+  - name: "🎂 Turned 69"
+    category: birthday
+
+"2072-05-07":
+  - name: "🎂 Turned 70"
+    category: birthday
+
+"2073-05-07":
+  - name: "🎂 Turned 71"
+    category: birthday
+
+"2074-05-07":
+  - name: "🎂 Turned 72"
+    category: birthday
+
+"2075-05-07":
+  - name: "🎂 Turned 73"
+    category: birthday
+
+"2076-05-07":
+  - name: "🎂 Turned 74"
+    category: birthday
+
+"2077-05-07":
+  - name: "🎂 Turned 75"
+    category: birthday
+
+"2078-05-07":
+  - name: "🎂 Turned 76"
+    category: birthday
+
+"2079-05-07":
+  - name: "🎂 Turned 77"
+    category: birthday
+
+"2080-05-07":
+  - name: "🎂 Turned 78"
+    category: birthday
+
+"2081-05-07":
+  - name: "🎂 Turned 79"
+    category: birthday
+
+"2082-05-07":
+  - name: "🎂 Turned 80"
+    category: birthday
+
+"2083-05-07":
+  - name: "🎂 Turned 81"
+    category: birthday
+
+"2084-05-07":
+  - name: "🎂 Turned 82"
+    category: birthday
+
+"2085-05-07":
+  - name: "🎂 Turned 83"
+    category: birthday
+
+"2086-05-07":
+  - name: "🎂 Turned 84"
+    category: birthday
+
+"2087-05-07":
+  - name: "🎂 Turned 85"
+    category: birthday
+
+"2088-05-07":
+  - name: "🎂 Turned 86"
+    category: birthday
+
+"2089-05-07":
+  - name: "🎂 Turned 87"
+    category: birthday
+
+"2090-05-07":
+  - name: "🎂 Turned 88"
+    category: birthday
+
+"2091-05-07":
+  - name: "🎂 Turned 89"
+    category: birthday
+
+"2092-05-07":
+  - name: "🎂 Turned 90"
+    category: birthday

@@ -1,0 +1,263 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 17px;
+  background: #fff;
+  color: #212529;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.intro-link {
+  color: #0070c9;
+}
+
+/* .intro-link::after {
+  content: "";
+  display: inline-block;
+  width: 0.45em;
+  height: 0.45em;
+  margin-left: 0.2em;
+  border-top: 1.5px solid currentColor;
+  border-right: 1.5px solid currentColor;
+  transform: rotate(45deg) translateY(-0.08em);
+  vertical-align: baseline;
+} */
+
+.intro-link:hover {
+  color: #0070c9;
+  text-decoration: none;
+  text-decoration-color: #737373;
+}
+
+/* Matches busterbenson/notes _layouts/life-in-weeks.html */
+.life-in-weeks-grid {
+  width: 100%;
+}
+
+.life-in-weeks-clear {
+  clear: both;
+}
+
+.float-left {
+  float: left;
+}
+
+.text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.border-secondary,
+.life-in-weeks-age {
+  border: 1px solid #6c757d;
+}
+
+.border-tertiary,
+.week {
+  border: 1px solid #dee2e6;
+}
+
+.life-in-weeks-age,
+.week {
+  --cell-height: 40px;
+  height: var(--cell-height);
+  min-height: var(--cell-height);
+  max-height: var(--cell-height);
+  padding: 0 8px;
+  margin: 3px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: calc(var(--cell-height) - 2px);
+  color: #495057;
+  overflow: hidden;
+}
+
+.life-in-weeks-age {
+  min-width: 7.25rem;
+  color: #6c757d;
+}
+
+.week {
+  min-width: 12px;
+  max-width: 18rem;
+}
+
+.week.future-date {
+  background: #fff;
+  border-color: #dee2e6;
+}
+
+.week:not(.future-date) {
+  background: #f8f9fa;
+}
+
+.week--has-events {
+  cursor: pointer;
+  transition:
+    background-color 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease,
+    transform 0.18s ease;
+}
+
+.week--hovered {
+  position: relative;
+  z-index: 2;
+  transform: translateY(-1px);
+  border-color: color-mix(in srgb, var(--popover-accent, #94a3b8) 45%, #dee2e6);
+  box-shadow:
+    0 0 0 1px color-mix(in srgb, var(--popover-accent, #94a3b8) 25%, transparent),
+    0 4px 14px color-mix(in srgb, var(--popover-accent, #94a3b8) 12%, transparent);
+}
+
+.week--hovered.week--has-events {
+  background: var(--week-hover-tint, #fff);
+}
+
+.week--hovered.future-date {
+  background: #fafafa;
+}
+
+.week a,
+.week span,
+.week-label,
+.week-label a {
+  display: inline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: calc(var(--cell-height) - 2px);
+  vertical-align: top;
+}
+
+.week-label {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Hover popover */
+.week-popover {
+  position: fixed;
+  z-index: 1000;
+  width: min(320px, calc(100vw - 24px));
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  box-shadow:
+    0 1px 2px rgba(15, 23, 42, 0.04),
+    0 12px 40px rgba(15, 23, 42, 0.12);
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  overflow: hidden;
+  pointer-events: none;
+  animation: popover-in 0.16s ease-out;
+}
+
+.week-popover-glow {
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--popover-accent, #94a3b8),
+    transparent
+  );
+  opacity: 0.85;
+}
+
+.week-popover-body {
+  padding: 14px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.week-popover-event + .week-popover-event {
+  padding-top: 14px;
+  border-top: 1px dashed rgba(15, 23, 42, 0.08);
+}
+
+.week-popover-date {
+  display: block;
+  font-size: 12px;
+  color: #64748b;
+  margin-bottom: 4px;
+}
+
+.week-popover-name {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.35;
+  color: #0f172a;
+}
+
+.week-popover-name a {
+  color: inherit;
+}
+
+.week-popover-name a:hover {
+  color: var(--popover-accent, #334155);
+  text-decoration: none;
+}
+
+.week-popover-desc {
+  margin: 6px 0 0;
+  font-size: 13px;
+  line-height: 1.55;
+  color: #475569;
+}
+
+@keyframes popover-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.week-popover--below {
+  animation-name: popover-in-below;
+}
+
+@keyframes popover-in-below {
+  from {
+    opacity: 0;
+    transform: translateY(-4px) scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
