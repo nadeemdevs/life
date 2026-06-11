@@ -483,3 +483,7 @@
   - name: "Yyyy"
     desc: "Oooo"
     category: Oooo
+"2026-06-25":
+  - name: "Update"
+    desc: "Huhuh"
+    category: Huhuh
