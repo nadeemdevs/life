@@ -487,3 +487,7 @@
   - name: "Update"
     desc: "Huhuh"
     category: Huhuh
+"2026-06-30":
+  - name: "No desc"
+    desc: ""
+    category: 
