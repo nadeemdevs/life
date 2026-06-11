@@ -1,6 +1,5 @@
 import { useLayoutEffect, useRef, useState } from "react";
 import { formatDisplayDate } from "../lib/dates";
-import { getCategoryStyle } from "../lib/categories";
 
 function PopoverEvent({ event }) {
   return (
@@ -23,7 +22,6 @@ function PopoverEvent({ event }) {
 export default function WeekPopover({ anchor, events }) {
   const popoverRef = useRef(null);
   const [position, setPosition] = useState({ top: 0, left: 0, placement: "above" });
-  const { accent, tint } = getCategoryStyle(events[0]?.category);
 
   useLayoutEffect(() => {
     if (!anchor) return;
@@ -60,12 +58,9 @@ export default function WeekPopover({ anchor, events }) {
       style={{
         top: position.top,
         left: position.left,
-        "--popover-accent": accent,
-        "--popover-tint": tint,
       }}
       role="tooltip"
     >
-      <div className="week-popover-glow" aria-hidden="true" />
       <div className="week-popover-body">
         {describedEvents.map((event, index) => (
           <PopoverEvent key={`${event.date}-${event.name}-${index}`} event={event} />

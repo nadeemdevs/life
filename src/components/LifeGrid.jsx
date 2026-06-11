@@ -6,7 +6,6 @@ import {
   getWeekEvents,
   isFutureWeek,
 } from "../lib/dates";
-import { getCategoryStyle } from "../lib/categories";
 import WeekPopover from "./WeekPopover";
 
 const WEEKS_PER_AGE_YEAR = 54;
@@ -26,7 +25,6 @@ function WeekBox({ id, weekStartDate, nextYearDate, eventData, isHovered, onHove
   const isFuture = isFutureWeek(weekStartDate);
   const hasEvents = events.length > 0;
   const isInteractive = eventsWithDesc.length > 0;
-  const { tint, accent } = getCategoryStyle(eventsWithDesc[0]?.category);
 
   function handleMouseEnter(event) {
     if (!isInteractive) return;
@@ -55,11 +53,6 @@ function WeekBox({ id, weekStartDate, nextYearDate, eventData, isHovered, onHove
     <div
       data-date={weekDate}
       className={className}
-      style={
-        isHovered && isInteractive
-          ? { "--week-hover-tint": tint, "--popover-accent": accent }
-          : undefined
-      }
       onMouseEnter={isInteractive ? handleMouseEnter : undefined}
       onMouseLeave={isInteractive ? onLeave : undefined}
     >

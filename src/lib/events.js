@@ -22,7 +22,7 @@ export function loadLifeData() {
   } catch (err) {
     throw new Error(
       `Failed to parse content/life-in-weeks.yml: ${err.message}`,
-      { cause: err }
+      { cause: err },
     );
   }
 }
@@ -30,6 +30,6 @@ export function loadLifeData() {
 export function countEvents(eventData) {
   return Object.values(eventData).reduce(
     (total, events) => total + events.length,
-    0
+    0,
   );
 }

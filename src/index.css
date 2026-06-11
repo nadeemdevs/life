@@ -129,14 +129,14 @@ a:hover {
   position: relative;
   z-index: 2;
   transform: translateY(-1px);
-  border-color: color-mix(in srgb, var(--popover-accent, #94a3b8) 45%, #dee2e6);
+  border-color: #cbd5e1;
   box-shadow:
-    0 0 0 1px color-mix(in srgb, var(--popover-accent, #94a3b8) 25%, transparent),
-    0 4px 14px color-mix(in srgb, var(--popover-accent, #94a3b8) 12%, transparent);
+    0 0 0 1px rgba(148, 163, 184, 0.2),
+    0 4px 14px rgba(15, 23, 42, 0.08);
 }
 
 .week--hovered.week--has-events {
-  background: var(--week-hover-tint, #fff);
+  background: #fff;
 }
 
 .week--hovered.future-date {
@@ -180,19 +180,6 @@ a:hover {
   animation: popover-in 0.16s ease-out;
 }
 
-.week-popover-glow {
-  position: absolute;
-  inset: 0 0 auto 0;
-  height: 3px;
-  background: linear-gradient(
-    90deg,
-    transparent,
-    var(--popover-accent, #94a3b8),
-    transparent
-  );
-  opacity: 0.85;
-}
-
 .week-popover-body {
   padding: 14px 16px 16px;
   display: flex;
@@ -225,7 +212,7 @@ a:hover {
 }
 
 .week-popover-name a:hover {
-  color: var(--popover-accent, #334155);
+  color: #334155;
   text-decoration: none;
 }
 
