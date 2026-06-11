@@ -1,5 +1,480 @@
-{"name":"life-in-weeks.yml","download_url":"https:\/\/raw.githubusercontent.com\/nadeemdevs\/life\/main\/content\/life-in-weeks.yml","url":"https:\/\/api.github.com\/repos\/nadeemdevs\/life\/contents\/content\/life-in-weeks.yml?ref=main","path":"content\/life-in-weeks.yml","size":13517,"type":"file","git_url":"https:\/\/api.github.com\/repos\/nadeemdevs\/life\/git\/blobs\/271c6798c856ccefc5557ca72905fff46d463821","html_url":"https:\/\/github.com\/nadeemdevs\/life\/blob\/main\/content\/life-in-weeks.yml","_links":{"git":"https:\/\/api.github.com\/repos\/nadeemdevs\/life\/git\/blobs\/271c6798c856ccefc5557ca72905fff46d463821","html":"https:\/\/github.com\/nadeemdevs\/life\/blob\/main\/content\/life-in-weeks.yml","self":"https:\/\/api.github.com\/repos\/nadeemdevs\/life\/contents\/content\/life-in-weeks.yml?ref=main"},"sha":"271c6798c856ccefc5557ca72905fff46d463821","encoding":"base64","content":"eyJuYW1lIjoibGlmZS1pbi13ZWVrcy55bWwiLCJkb3dubG9hZF91cmwiOiJo\ndHRwczpcL1wvcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbVwvbmFkZWVtZGV2\nc1wvbGlmZVwvbWFpblwvY29udGVudFwvbGlmZS1pbi13ZWVrcy55bWwiLCJ1\ncmwiOiJodHRwczpcL1wvYXBpLmdpdGh1Yi5jb21cL3JlcG9zXC9uYWRlZW1k\nZXZzXC9saWZlXC9jb250ZW50c1wvY29udGVudFwvbGlmZS1pbi13ZWVrcy55\nbWw\/cmVmPW1haW4iLCJwYXRoIjoiY29udGVudFwvbGlmZS1pbi13ZWVrcy55\nbWwiLCJzaXplIjo5MDg4LCJ0eXBlIjoiZmlsZSIsImdpdF91cmwiOiJodHRw\nczpcL1wvYXBpLmdpdGh1Yi5jb21cL3JlcG9zXC9uYWRlZW1kZXZzXC9saWZl\nXC9naXRcL2Jsb2JzXC8wY2VhNTcyMTk0YjVhOTU0MmFiZDdlOTIyMzFiOTEx\nYzdkYmQwMzQ2IiwiaHRtbF91cmwiOiJodHRwczpcL1wvZ2l0aHViLmNvbVwv\nbmFkZWVtZGV2c1wvbGlmZVwvYmxvYlwvbWFpblwvY29udGVudFwvbGlmZS1p\nbi13ZWVrcy55bWwiLCJfbGlua3MiOnsiZ2l0IjoiaHR0cHM6XC9cL2FwaS5n\naXRodWIuY29tXC9yZXBvc1wvbmFkZWVtZGV2c1wvbGlmZVwvZ2l0XC9ibG9i\nc1wvMGNlYTU3MjE5NGI1YTk1NDJhYmQ3ZTkyMjMxYjkxMWM3ZGJkMDM0NiIs\nImh0bWwiOiJodHRwczpcL1wvZ2l0aHViLmNvbVwvbmFkZWVtZGV2c1wvbGlm\nZVwvYmxvYlwvbWFpblwvY29udGVudFwvbGlmZS1pbi13ZWVrcy55bWwiLCJz\nZWxmIjoiaHR0cHM6XC9cL2FwaS5naXRodWIuY29tXC9yZXBvc1wvbmFkZWVt\nZGV2c1wvbGlmZVwvY29udGVudHNcL2NvbnRlbnRcL2xpZmUtaW4td2Vla3Mu\neW1sP3JlZj1tYWluIn0sInNoYSI6IjBjZWE1NzIxOTRiNWE5NTQyYWJkN2U5\nMjIzMWI5MTFjN2RiZDAzNDYiLCJlbmNvZGluZyI6ImJhc2U2NCIsImNvbnRl\nbnQiOiJJakl3TURJdE1EVXRNRGNpT2dvZ0lDMGdibUZ0WlRvZ0l2Q2ZrYlln\nVUc5d2NHVmtJRWx1ZEc4Z1JYaHBcbmMzUmxibU5sSWdvZ0lDQWdaR1Z6WXpv\nZ0lrSnZjbTRnYVc0Z1MyVnlZV3hoSUdGdVpDQnBiVzFsWkdsaFxuZEdWc2VT\nQnpkR0Z5ZEdWa0lHbHVZM0psWVhOcGJtY2dabUZ0YVd4NUlHVjRjR1Z1YzJW\nekxpSUtJQ0FnXG5JR05oZEdWbmIzSjVPaUJpYVhKMGFHUmhlUW9LSWpJd01E\nTXRNRFV0TURjaU9nb2dJQzBnYm1GdFpUb2dcbkl2Q2Zqb0lnVEdWMlpXd2dN\nU0JEYjIxd2JHVjBaU0lLSUNBZ0lHUmxjMk02SUNKVGRYSjJhWFpsWkNCMFxu\nYUdVZ2RIVjBiM0pwWVd3Z2VXVmhjaTRpQ2lBZ0lDQmpZWFJsWjI5eWVUb2dZ\nbWx5ZEdoa1lYa0tDaUl5XG5NREEwTFRBMUxUQTNJam9LSUNBdElHNWhiV1U2\nSUNMd240NkNJRlIxY201bFpDQXlJZ29nSUNBZ1kyRjBcblpXZHZjbms2SUdK\ncGNuUm9aR0Y1Q2dvaU1qQXdOUzB3TlMwd055STZDaUFnTFNCdVlXMWxPaUFp\nOEorT1xuZ2lCVWRYSnVaV1FnTXlJS0lDQWdJR05oZEdWbmIzSjVPaUJpYVhK\nMGFHUmhlUW9LSWpJd01EVXRNVEF0XG5NRFVpT2dvZ0lDMGdibUZ0WlRvZ0l1\nS2NpTys0anlCQ1lXaHlZV2x1SUVGeVl5QkNaV2RwYm5NaUNpQWdcbklDQmta\nWE5qT2lBaVVHRmphMlZrSUhWd0lHRnVaQ0J0YjNabFpDQjBieUJDWVdoeVlX\nbHVMaUlLSUNBZ1xuSUdOaGRHVm5iM0o1T2lCc2FXWmxDZ29pTWpBd05pMHdO\nQzB3TWlJNkNpQWdMU0J1WVcxbE9pQWk4SitPXG5raUJUWTJodmIyd2dSRXhE\nSUVsdWMzUmhiR3hsWkNJS0lDQWdJR1JsYzJNNklDSktiMmx1WldRZ1NVaEpc\nblV5QmhibVFnWW1WbllXNGdkR2hsSUd4dmJtY2dZV05oWkdWdGFXTWdjMmxr\nWlNCeGRXVnpkQzRpQ2lBZ1xuSUNCallYUmxaMjl5ZVRvZ1pXUjFZMkYwYVc5\ndUNnb2lNakF3Tmkwd05TMHdOeUk2Q2lBZ0xTQnVZVzFsXG5PaUFpOEorT2dp\nQlVkWEp1WldRZ05DSUtJQ0FnSUdOaGRHVm5iM0o1T2lCaWFYSjBhR1JoZVFv\nS0lqSXdcbk1EY3RNRFV0TURjaU9nb2dJQzBnYm1GdFpUb2dJdkNmam9JZ1ZI\nVnlibVZrSURVaUNpQWdJQ0JqWVhSbFxuWjI5eWVUb2dZbWx5ZEdoa1lYa0tD\naUl5TURBNExUQTFMVEEzSWpvS0lDQXRJRzVoYldVNklDTHduNDZDXG5JRlIx\nY201bFpDQTJJZ29nSUNBZ1kyRjBaV2R2Y25rNklHSnBjblJvWkdGNUNnb2lN\nakF3T1Mwd05TMHdcbk55STZDaUFnTFNCdVlXMWxPaUFpOEorT2dpQlVkWEp1\nWldRZ055SUtJQ0FnSUdOaGRHVm5iM0o1T2lCaVxuYVhKMGFHUmhlUW9LSWpJ\nd01Ea3RNVEF0TURNaU9nb2dJQzBnYm1GdFpUb2dJdkNmajZVZ1JtbHljM1Fn\nXG5VR0YwWTJnZ1ZYQmtZWFJsSWdvZ0lDQWdaR1Z6WXpvZ0lsVnVaR1Z5ZDJW\ndWRDQm9aWEp1YVdFZ2MzVnlcbloyVnllU0JoYm1RZ1oyOTBJSE52YldVZ1pt\nRmpkRzl5ZVNCeVpYQmhhWEp6TGlJS0lDQWdJR05oZEdWblxuYjNKNU9pQm9a\nV0ZzZEdnS0NpSXlNREV3TFRBekxUQXhJam9LSUNBdElHNWhiV1U2SUNMd240\nK3JJRTVsXG5keUJUWTJodmIyd3NJRmRvYnlCRWFYTVwvSWdvZ0lDQWdaR1Z6\nWXpvZ0lsUnlZVzV6Wm1WeWNtVmtJSFJ2XG5JRWxUUWlCbWIzSWdkR2hsSUc1\nbGVIUWdZMmhoY0hSbGNpNGlDaUFnSUNCallYUmxaMjl5ZVRvZ1pXUjFcblky\nRjBhVzl1Q2dvaU1qQXhNQzB3TlMwd055STZDaUFnTFNCdVlXMWxPaUFpOEor\nT2dpQlVkWEp1WldRZ1xuT0NJS0lDQWdJR05oZEdWbmIzSjVPaUJpYVhKMGFH\nUmhlUW9LSWpJd01URXRNRFV0TURjaU9nb2dJQzBnXG5ibUZ0WlRvZ0l2Q2Zq\nb0lnVkhWeWJtVmtJRGtpQ2lBZ0lDQmpZWFJsWjI5eWVUb2dZbWx5ZEdoa1lY\na0tcbkNpSXlNREV5TFRBMUxUQTNJam9LSUNBdElHNWhiV1U2SUNMd240NkNJ\nRlIxY201bFpDQXhNQ0lLSUNBZ1xuSUdOaGRHVm5iM0o1T2lCaWFYSjBhR1Jo\nZVFvS0lqSXdNVE10TURVdE1EY2lPZ29nSUMwZ2JtRnRaVG9nXG5JdkNmam9J\nZ1ZIVnlibVZrSURFeElnb2dJQ0FnWTJGMFpXZHZjbms2SUdKcGNuUm9aR0Y1\nQ2dvaU1qQXhcbk5DMHdOQzB3TmlJNkNpQWdMU0J1WVcxbE9pQWk4SitOamlC\nRmJuUmxjbVZrSUZSb1pTQkZZMjl6ZVhOMFxuWlcwaUNpQWdJQ0JrWlhOak9p\nQWlSMjkwSUcxNUlHWnBjbk4wSUVGd2NHeGxJR1JsZG1salpTd2dZVzRnXG5h\nVkJoWkM0aUNpQWdJQ0JqWVhSbFoyOXllVG9nZEdWamFHNXZiRzluZVFvS0lq\nSXdNVFF0TURVdE1EY2lcbk9nb2dJQzBnYm1GdFpUb2dJdkNmam9JZ1ZIVnli\nbVZrSURFeUlnb2dJQ0FnWTJGMFpXZHZjbms2SUdKcFxuY25Sb1pHRjVDZ29p\nTWpBeE5TMHdOUzB3TnlJNkNpQWdMU0J1WVcxbE9pQWk4SitPZ2lCVWRYSnVa\nV1FnXG5NVE1pQ2lBZ0lDQmpZWFJsWjI5eWVUb2dZbWx5ZEdoa1lYa0tDaUl5\nTURFMUxUQTNMVEV4SWpvS0lDQXRcbklHNWhiV1U2SUNMd242V0JJRXB2YVc1\nbFpDQlVhR1VnUW1GdVpDSUtJQ0FnSUdSbGMyTTZJQ0pDWldOaFxuYldVZ1lT\nQmlZWE56SUdSeWRXMXRaWElnWVc1a0lHUnBjMk52ZG1WeVpXUWdiRzkxWkNC\nb2IySmlhV1Z6XG5MaUlLSUNBZ0lHTmhkR1ZuYjNKNU9pQm9iMkppZVFvS0lq\nSXdNVFl0TURNdE16QWlPZ29nSUMwZ2JtRnRcblpUb2dJdkNmazVvZ1RXbGta\nR3hsSUZOamFHOXZiQ0JGYzJOaGNHVmtJZ29nSUNBZ1pHVnpZem9nSWtOdlxu\nYlhCc1pYUmxaQ0J0YVdSa2JHVWdjMk5vYjI5c0lIZHBkR2dnYlc5emRDQnZa\naUJ0ZVNCellXNXBkSGtnXG5hVzUwWVdOMExpSUtJQ0FnSUdOaGRHVm5iM0o1\nT2lCbFpIVmpZWFJwYjI0S0NpSXlNREUyTFRBMUxUQTNcbklqb0tJQ0F0SUc1\naGJXVTZJQ0x3bjQ2Q0lGUjFjbTVsWkNBeE5DSUtJQ0FnSUdOaGRHVm5iM0o1\nT2lCaVxuYVhKMGFHUmhlUW9LSWpJd01UY3RNRFV0TURjaU9nb2dJQzBnYm1G\ndFpUb2dJdkNmam9JZ1ZIVnlibVZrXG5JREUxSWdvZ0lDQWdZMkYwWldkdmNu\nazZJR0pwY25Sb1pHRjVDZ29pTWpBeE9DMHdOUzB3TnlJNkNpQWdcbkxTQnVZ\nVzFsT2lBaThKK09naUJVZFhKdVpXUWdNVFlpQ2lBZ0lDQmpZWFJsWjI5eWVU\nb2dZbWx5ZEdoa1xuWVhrS0NpSXlNREU1TFRBMUxUQTNJam9LSUNBdElHNWhi\nV1U2SUNMd240NkNJRlIxY201bFpDQXhOeUlLXG5JQ0FnSUdOaGRHVm5iM0o1\nT2lCaWFYSjBhR1JoZVFvS0lqSXdNakF0TURJdE1ERWlPZ29nSUMwZ2JtRnRc\nblpUb2dJdkNmcHFBZ1ZHaGxJRmR2Y214a0lGQmhkWE5sWkNJS0lDQWdJR1Js\nYzJNNklDSkRUMVpKUkNCaFxuY25KcGRtVmtJR0Z1WkNCbGRtVnllVzl1WlNC\nemRXUmtaVzVzZVNCaVpXTmhiV1VnYUc5dFpXSnZaR2xsXG5jeTRpQ2lBZ0lD\nQmpZWFJsWjI5eWVUb2dkMjl5YkdRS0NpSXlNREl3TFRBekxUTXhJam9LSUNB\ndElHNWhcbmJXVTZJQ0x3bjQ2VElGTmphRzl2YkRvZ1EyOXRjR3hsZEdWa0ln\nb2dJQ0FnWkdWell6b2dJa1pwYm1selxuYUdWa0lHaHBaMmdnYzJOb2IyOXNJ\nR1IxY21sdVp5QndaV0ZySUdOb1lXOXpMaUlLSUNBZ0lHTmhkR1ZuXG5iM0o1\nT2lCbFpIVmpZWFJwYjI0S0NpSXlNREl3TFRBMUxUQTNJam9LSUNBdElHNWhi\nV1U2SUNMd240NkNcbklGUjFjbTVsWkNBeE9DSUtJQ0FnSUdOaGRHVm5iM0o1\nT2lCaWFYSjBhR1JoZVFvS0lqSXdNakF0TURZdFxuTURjaU9nb2dJQzBnYm1G\ndFpUb2dJdkNmajZBZ1VtVjBkWEp1SUZSdklFSmhjMlVpQ2lBZ0lDQmtaWE5q\nXG5PaUFpVFc5MlpXUWdZbUZqYXlCMGJ5QkxaWEpoYkdFZ1lXWjBaWElnZVdW\naGNuTWdhVzRnUW1Gb2NtRnBcbmJpNGlDaUFnSUNCallYUmxaMjl5ZVRvZ2JH\nbG1aUW9LSWpJd01qQXRNVEF0TURNaU9nb2dJQzBnYm1GdFxuWlRvZ0l2Q2Zq\ncElnUTI5c2JHVm5aU0JDWldkcGJuTWlDaUFnSUNCa1pYTmpPaUFpVTNSaGNu\nUmxaQ0JsXG5ibWRwYm1WbGNtbHVaeUJoYm1RZ1lTQnNhV1psYkc5dVp5Qnla\nV3hoZEdsdmJuTm9hWEFnZDJsMGFDQmtcblpXRmtiR2x1WlhNdUlnb2dJQ0Fn\nWTJGMFpXZHZjbms2SUdWa2RXTmhkR2x2YmdvS0lqSXdNakF0TVRFdFxuTWpB\naU9nb2dJQzBnYm1GdFpUb2dJdkNmajQ3dnVJOGdTR0Z0YVd4MGIyNGdSMlYw\nY3lCVFpYWmxiaUlLXG5JQ0FnSUdSbGMyTTZJQ0pYYVhSdVpYTnpaV1FnVEdW\nM2FYTWdTR0Z0YVd4MGIyNGdiV0YwWTJnZ1UyTm9cbmRXMWhZMmhsY2lkeklI\nSmxZMjl5WkM0aUNpQWdJQ0JqWVhSbFoyOXllVG9nYzNCdmNuUnpDZ29pTWpB\neVxuTVMwd05TMHdOeUk2Q2lBZ0xTQnVZVzFsT2lBaThKK09naUJVZFhKdVpX\nUWdNVGtpQ2lBZ0lDQmpZWFJsXG5aMjl5ZVRvZ1ltbHlkR2hrWVhrS0NpSXlN\nREl5TFRBeExUSXdJam9LSUNBdElHNWhiV1U2SUNMd242U1NcbklFTlBWa2xF\nSUVkdmRDQk5aU0lLSUNBZ0lHUmxjMk02SUNKVVpYTjBaV1FnY0c5emFYUnBk\nbVVnWVdaMFxuWlhJZ1pHOWtaMmx1WnlCcGRDQm1iM0lnYm1WaGNteDVJSFIz\nYnlCNVpXRnljeTRpQ2lBZ0lDQmpZWFJsXG5aMjl5ZVRvZ2FHVmhiSFJvQ2dv\naU1qQXlNaTB3TXkweE1pSTZDaUFnTFNCdVlXMWxPaUFpOEorU3V5QkdcbmFY\nSnpkQ0JFWlhZZ1VHRjVZMmhsWTJzaUNpQWdJQ0JrWlhOak9pQWlVM1JoY25S\nbFpDQnRlU0JtYVhKelxuZENCa1pYWmxiRzl3WlhJZ2FtOWlJR0YwSUVaaFlY\nUnNZV0l1SWdvZ0lDQWdZMkYwWldkdmNuazZJR05oXG5jbVZsY2dvS0lqSXdN\nakl0TURVdE1EY2lPZ29nSUMwZ2JtRnRaVG9nSXZDZmpvSWdWSFZ5Ym1Wa0lE\nSXdcbklnb2dJQ0FnWTJGMFpXZHZjbms2SUdKcGNuUm9aR0Y1Q2dvaU1qQXlN\naTB3T1Mwd01TSTZDaUFnTFNCdVxuWVcxbE9pQWk4SitSbENCTmRXNWtkU0JF\nWldKMWRDSUtJQ0FnSUdSbGMyTTZJQ0pYYjNKbElHRWdiWFZ1XG5aSFVnWm05\neUlIUm9aU0JtYVhKemRDQjBhVzFsSUdGdVpDQnpiMjFsYUc5M0lITjFjblpw\nZG1Wa0xpSUtcbklDQWdJR05oZEdWbmIzSjVPaUJzYVdabENnb2lNakF5TXkw\nd05TMHdOeUk2Q2lBZ0xTQnVZVzFsT2lBaVxuOEorT2dpQlVkWEp1WldRZ01q\nRWlDaUFnSUNCallYUmxaMjl5ZVRvZ1ltbHlkR2hrWVhrS0NpSXlNREl6XG5M\nVEEyTFRBeElqb0tJQ0F0SUc1aGJXVTZJQ0x3bjVxQUlFSjVkSE52YkhZZ1Ft\nVm5hVzV6SWdvZ0lDQWdcblpHVnpZem9nSWxOMFlYSjBaV1FnWVNCdVpYY2dZ\nMmhoY0hSbGNpQmhkQ0JDZVhSemIyeDJMaUlLSUNBZ1xuSUdOaGRHVm5iM0o1\nT2lCallYSmxaWElLQ2lJeU1ESTBMVEF4TFRNeElqb0tJQ0F0SUc1aGJXVTZJ\nQ0x3XG5uNU9tSUZWdVpYaHdaV04wWldRZ1JuSmxaV1J2YlNJS0lDQWdJR1Js\nYzJNNklDSkhiM1FnYkdGcFpDQnZcblptWWdZVzVrSUhWdWJHOWphMlZrSUdF\nZ2MzVnljSEpwYzJVZ1kyRnlaV1Z5SUhGMVpYTjBMaUlLSUNBZ1xuSUdOaGRH\nVm5iM0o1T2lCallYSmxaWElLQ2lJeU1ESTBMVEF5TFRFeElqb0tJQ0F0SUc1\naGJXVTZJQ0x3XG5uNUtBSUV4aGNIUnZjQ0JUWVdOeWFXWnBZMlVpQ2lBZ0lD\nQmtaWE5qT2lBaVFXTmphV1JsYm5SaGJHeDVcbklHWnlhV1ZrSUcxNUlHeGhj\nSFJ2Y0NCdGIzUm9aWEppYjJGeVpDNGlDaUFnSUNCallYUmxaMjl5ZVRvZ1xu\nZEdWamFHNXZiRzluZVFvS0lqSXdNalF0TURNdE1qQWlPZ29nSUMwZ2JtRnRa\nVG9nSXZDZm1wY2dWR1Z5XG5jbWxpYkdVZ1JHRjVJRUZ1ZVNVaUNpQWdJQ0Jr\nWlhOak9pQWlTR2wwSUdFZ1pHOW5JR0Z1WkNCamNtRnpcbmFHVmtJRzE1SUdO\naGNpQnBiaUJ2Ym1VZ2RXNW1iM0puWlhSMFlXSnNaU0JsZG1WdWRDNGlDaUFn\nSUNCalxuWVhSbFoyOXllVG9nYkdsbVpRb0tJakl3TWpRdE1EUXRNRFVpT2dv\nZ0lDMGdibUZ0WlRvZ0l2Q2ZqcE1nXG5SR1ZuY21WbElFRmpjWFZwY21Wa0ln\nb2dJQ0FnWkdWell6b2dJa2R5WVdSMVlYUmxaQ0IzYVhSb0lIUjNcbmJ5Qnpk\nWEJ3YkdsbGN5QmhibVFnZW1WeWJ5QnphR0Z0WlM0aUNpQWdJQ0JqWVhSbFoy\nOXllVG9nWldSMVxuWTJGMGFXOXVDZ29pTWpBeU5DMHdOUzB3TnlJNkNpQWdM\nU0J1WVcxbE9pQWk4SitPZ2lCVWRYSnVaV1FnXG5NaklpQ2lBZ0lDQmpZWFJs\nWjI5eWVUb2dZbWx5ZEdoa1lYa0tDaUl5TURJMExUQTJMVEU1SWpvS0lDQXRc\nbklHNWhiV1U2SUNMd240Mk9JRTFoWTBKdmIyc2dSWEpoSWdvZ0lDQWdaR1Z6\nWXpvZ0lrSnZkV2RvZENCaFxuSUUxaFkwSnZiMnNnUVdseUlHRnVaQ0IyYjJ4\nMWJuUmhjbWxzZVNCbGJuUmxjbVZrSUVGd2NHeGxKM01nXG5aV052YzNsemRH\nVnRJR1JsWlhCbGNpNGlDaUFnSUNCallYUmxaMjl5ZVRvZ2RHVmphRzV2Ykc5\nbmVRb0tcbklqSXdNalF0TVRBdE1ETWlPZ29nSUMwZ2JtRnRaVG9nSXVLYWxl\nKzRqeUJUZEhWa2VVMUZSRWxESUVGeVxuWXlJS0lDQWdJR1JsYzJNNklDSkti\nMmx1WldRZ1UzUjFaSGxOUlVSSlF5QmhjeUJoSUVKaFkydGxibVFnXG5SVzVu\nYVc1bFpYSXVJZ29nSUNBZ1kyRjBaV2R2Y25rNklHTmhjbVZsY2dvS0lqSXdN\nalV0TURVdE1EY2lcbk9nb2dJQzBnYm1GdFpUb2dJdkNmam9JZ1ZIVnlibVZr\nSURJeklnb2dJQ0FnWTJGMFpXZHZjbms2SUdKcFxuY25Sb1pHRjVDZ29pTWpB\neU5TMHdPQzB4TVNJNkNpQWdMU0J1WVcxbE9pQWk4SitrblNCTlkweDVibXNn\nXG5TWE1nUW05eWJpSUtJQ0FnSUdSbGMyTTZJQ0pEYnkxbWIzVnVaR1ZrSUUx\nalRIbHVheUJoYm1RZ2MybG5cbmJtVmtJSFZ3SUdadmNpQnRiM0psSUhKbGMz\nQnZibk5wWW1sc2FYUjVMaUlLSUNBZ0lHTmhkR1ZuYjNKNVxuT2lCemRHRnlk\nQW9LSWpJd01qWXRNRFV0TURjaU9nb2dJQzBnYm1GdFpUb2dJdkNmam9JZ1ZI\nVnlibVZrXG5JREkwSWdvZ0lDQWdZMkYwWldkdmNuazZJR0pwY25Sb1pHRjVD\nZ29pTWpBeU55MHdOUzB3TnlJNkNpQWdcbkxTQnVZVzFsT2lBaThKK09naUJV\nZFhKdVpXUWdNalVpQ2lBZ0lDQmpZWFJsWjI5eWVUb2dZbWx5ZEdoa1xuWVhr\nS0NpSXlNREk0TFRBMUxUQTNJam9LSUNBdElHNWhiV1U2SUNMd240NkNJRlIx\nY201bFpDQXlOaUlLXG5JQ0FnSUdOaGRHVm5iM0o1T2lCaWFYSjBhR1JoZVFv\nS0lqSXdNamt0TURVdE1EY2lPZ29nSUMwZ2JtRnRcblpUb2dJdkNmam9JZ1ZI\nVnlibVZrSURJM0lnb2dJQ0FnWTJGMFpXZHZjbms2SUdKcGNuUm9aR0Y1Q2dv\naVxuTWpBek1DMHdOUzB3TnlJNkNpQWdMU0J1WVcxbE9pQWk4SitPZ2lCVWRY\nSnVaV1FnTWpnaUNpQWdJQ0JqXG5ZWFJsWjI5eWVUb2dZbWx5ZEdoa1lYa0tD\naUl5TURNeExUQTFMVEEzSWpvS0lDQXRJRzVoYldVNklDTHdcbm40NkNJRlIx\nY201bFpDQXlPU0lLSUNBZ0lHTmhkR1ZuYjNKNU9pQmlhWEowYUdSaGVRb0tJ\nakl3TXpJdFxuTURVdE1EY2lPZ29nSUMwZ2JtRnRaVG9nSXZDZmpvSWdWSFZ5\nYm1Wa0lETXdJZ29nSUNBZ1kyRjBaV2R2XG5jbms2SUdKcGNuUm9aR0Y1Q2dv\naU1qQXpNeTB3TlMwd055STZDaUFnTFNCdVlXMWxPaUFpOEorT2dpQlVcbmRY\nSnVaV1FnTXpFaUNpQWdJQ0JqWVhSbFoyOXllVG9nWW1seWRHaGtZWGtLQ2lJ\neU1ETTBMVEExTFRBM1xuSWpvS0lDQXRJRzVoYldVNklDTHduNDZDSUZSMWNt\nNWxaQ0F6TWlJS0lDQWdJR05oZEdWbmIzSjVPaUJpXG5hWEowYUdSaGVRb0tJ\nakl3TXpVdE1EVXRNRGNpT2dvZ0lDMGdibUZ0WlRvZ0l2Q2Zqb0lnVkhWeWJt\nVmtcbklETXpJZ29nSUNBZ1kyRjBaV2R2Y25rNklHSnBjblJvWkdGNUNnb2lN\nakF6Tmkwd05TMHdOeUk2Q2lBZ1xuTFNCdVlXMWxPaUFpOEorT2dpQlVkWEp1\nWldRZ016UWlDaUFnSUNCallYUmxaMjl5ZVRvZ1ltbHlkR2hrXG5ZWGtLQ2lJ\neU1ETTNMVEExTFRBM0lqb0tJQ0F0SUc1aGJXVTZJQ0x3bjQ2Q0lGUjFjbTVs\nWkNBek5TSUtcbklDQWdJR05oZEdWbmIzSjVPaUJpYVhKMGFHUmhlUW9LSWpJ\nd016Z3RNRFV0TURjaU9nb2dJQzBnYm1GdFxuWlRvZ0l2Q2Zqb0lnVkhWeWJt\nVmtJRE0ySWdvZ0lDQWdZMkYwWldkdmNuazZJR0pwY25Sb1pHRjVDZ29pXG5N\nakF6T1Mwd05TMHdOeUk2Q2lBZ0xTQnVZVzFsT2lBaThKK09naUJVZFhKdVpX\nUWdNemNpQ2lBZ0lDQmpcbllYUmxaMjl5ZVRvZ1ltbHlkR2hrWVhrS0NpSXlN\nRFF3TFRBMUxUQTNJam9LSUNBdElHNWhiV1U2SUNMd1xubjQ2Q0lGUjFjbTVs\nWkNBek9DSUtJQ0FnSUdOaGRHVm5iM0o1T2lCaWFYSjBhR1JoZVFvS0lqSXdO\nREV0XG5NRFV0TURjaU9nb2dJQzBnYm1GdFpUb2dJdkNmam9JZ1ZIVnlibVZr\nSURNNUlnb2dJQ0FnWTJGMFpXZHZcbmNuazZJR0pwY25Sb1pHRjVDZ29pTWpB\nME1pMHdOUzB3TnlJNkNpQWdMU0J1WVcxbE9pQWk4SitPZ2lCVVxuZFhKdVpX\nUWdOREFpQ2lBZ0lDQmpZWFJsWjI5eWVUb2dZbWx5ZEdoa1lYa0tDaUl5TURR\nekxUQTFMVEEzXG5Jam9LSUNBdElHNWhiV1U2SUNMd240NkNJRlIxY201bFpD\nQTBNU0lLSUNBZ0lHTmhkR1ZuYjNKNU9pQmlcbmFYSjBhR1JoZVFvS0lqSXdO\nRFF0TURVdE1EY2lPZ29nSUMwZ2JtRnRaVG9nSXZDZmpvSWdWSFZ5Ym1Wa1xu\nSURReUlnb2dJQ0FnWTJGMFpXZHZjbms2SUdKcGNuUm9aR0Y1Q2dvaU1qQTBO\nUzB3TlMwd055STZDaUFnXG5MU0J1WVcxbE9pQWk4SitPZ2lCVWRYSnVaV1Fn\nTkRNaUNpQWdJQ0JqWVhSbFoyOXllVG9nWW1seWRHaGtcbllYa0tDaUl5TURR\nMkxUQTFMVEEzSWpvS0lDQXRJRzVoYldVNklDTHduNDZDSUZSMWNtNWxaQ0Ew\nTkNJS1xuSUNBZ0lHTmhkR1ZuYjNKNU9pQmlhWEowYUdSaGVRb0tJakl3TkRj\ndE1EVXRNRGNpT2dvZ0lDMGdibUZ0XG5aVG9nSXZDZmpvSWdWSFZ5Ym1Wa0lE\nUTFJZ29nSUNBZ1kyRjBaV2R2Y25rNklHSnBjblJvWkdGNUNnb2lcbk1qQTBP\nQzB3TlMwd055STZDaUFnTFNCdVlXMWxPaUFpOEorT2dpQlVkWEp1WldRZ05E\nWWlDaUFnSUNCalxuWVhSbFoyOXllVG9nWW1seWRHaGtZWGtLQ2lJeU1EUTVM\nVEExTFRBM0lqb0tJQ0F0SUc1aGJXVTZJQ0x3XG5uNDZDSUZSMWNtNWxaQ0Ew\nTnlJS0lDQWdJR05oZEdWbmIzSjVPaUJpYVhKMGFHUmhlUW9LSWpJd05UQXRc\nbk1EVXRNRGNpT2dvZ0lDMGdibUZ0WlRvZ0l2Q2Zqb0lnVkhWeWJtVmtJRFE0\nSWdvZ0lDQWdZMkYwWldkdlxuY25rNklHSnBjblJvWkdGNUNnb2lNakExTVMw\nd05TMHdOeUk2Q2lBZ0xTQnVZVzFsT2lBaThKK09naUJVXG5kWEp1WldRZ05E\na2lDaUFnSUNCallYUmxaMjl5ZVRvZ1ltbHlkR2hrWVhrS0NpSXlNRFV5TFRB\nMUxUQTNcbklqb0tJQ0F0SUc1aGJXVTZJQ0x3bjQ2Q0lGUjFjbTVsWkNBMU1D\nSUtJQ0FnSUdOaGRHVm5iM0o1T2lCaVxuYVhKMGFHUmhlUW9LSWpJd05UTXRN\nRFV0TURjaU9nb2dJQzBnYm1GdFpUb2dJdkNmam9JZ1ZIVnlibVZrXG5JRFV4\nSWdvZ0lDQWdZMkYwWldkdmNuazZJR0pwY25Sb1pHRjVDZ29pTWpBMU5DMHdO\nUzB3TnlJNkNpQWdcbkxTQnVZVzFsT2lBaThKK09naUJVZFhKdVpXUWdOVElp\nQ2lBZ0lDQmpZWFJsWjI5eWVUb2dZbWx5ZEdoa1xuWVhrS0NpSXlNRFUxTFRB\nMUxUQTNJam9LSUNBdElHNWhiV1U2SUNMd240NkNJRlIxY201bFpDQTFNeUlL\nXG5JQ0FnSUdOaGRHVm5iM0o1T2lCaWFYSjBhR1JoZVFvS0lqSXdOVFl0TURV\ndE1EY2lPZ29nSUMwZ2JtRnRcblpUb2dJdkNmam9JZ1ZIVnlibVZrSURVMEln\nb2dJQ0FnWTJGMFpXZHZjbms2SUdKcGNuUm9aR0Y1Q2dvaVxuTWpBMU55MHdO\nUzB3TnlJNkNpQWdMU0J1WVcxbE9pQWk4SitPZ2lCVWRYSnVaV1FnTlRVaUNp\nQWdJQ0JqXG5ZWFJsWjI5eWVUb2dZbWx5ZEdoa1lYa0tDaUl5TURVNExUQTFM\nVEEzSWpvS0lDQXRJRzVoYldVNklDTHdcbm40NkNJRlIxY201bFpDQTFOaUlL\nSUNBZ0lHTmhkR1ZuYjNKNU9pQmlhWEowYUdSaGVRb0tJakl3TlRrdFxuTURV\ndE1EY2lPZ29nSUMwZ2JtRnRaVG9nSXZDZmpvSWdWSFZ5Ym1Wa0lEVTNJZ29n\nSUNBZ1kyRjBaV2R2XG5jbms2SUdKcGNuUm9aR0Y1Q2dvaU1qQTJNQzB3TlMw\nd055STZDaUFnTFNCdVlXMWxPaUFpOEorT2dpQlVcbmRYSnVaV1FnTlRnaUNp\nQWdJQ0JqWVhSbFoyOXllVG9nWW1seWRHaGtZWGtLQ2lJeU1EWXhMVEExTFRB\nM1xuSWpvS0lDQXRJRzVoYldVNklDTHduNDZDSUZSMWNtNWxaQ0ExT1NJS0lD\nQWdJR05oZEdWbmIzSjVPaUJpXG5hWEowYUdSaGVRb0tJakl3TmpJdE1EVXRN\nRGNpT2dvZ0lDMGdibUZ0WlRvZ0l2Q2Zqb0lnVkhWeWJtVmtcbklEWXdJZ29n\nSUNBZ1kyRjBaV2R2Y25rNklHSnBjblJvWkdGNUNnb2lNakEyTXkwd05TMHdO\neUk2Q2lBZ1xuTFNCdVlXMWxPaUFpOEorT2dpQlVkWEp1WldRZ05qRWlDaUFn\nSUNCallYUmxaMjl5ZVRvZ1ltbHlkR2hrXG5ZWGtLQ2lJeU1EWTBMVEExTFRB\nM0lqb0tJQ0F0SUc1aGJXVTZJQ0x3bjQ2Q0lGUjFjbTVsWkNBMk1pSUtcbklD\nQWdJR05oZEdWbmIzSjVPaUJpYVhKMGFHUmhlUW9LSWpJd05qVXRNRFV0TURj\naU9nb2dJQzBnYm1GdFxuWlRvZ0l2Q2Zqb0lnVkhWeWJtVmtJRFl6SWdvZ0lD\nQWdZMkYwWldkdmNuazZJR0pwY25Sb1pHRjVDZ29pXG5NakEyTmkwd05TMHdO\neUk2Q2lBZ0xTQnVZVzFsT2lBaThKK09naUJVZFhKdVpXUWdOalFpQ2lBZ0lD\nQmpcbllYUmxaMjl5ZVRvZ1ltbHlkR2hrWVhrS0NpSXlNRFkzTFRBMUxUQTNJ\nam9LSUNBdElHNWhiV1U2SUNMd1xubjQ2Q0lGUjFjbTVsWkNBMk5TSUtJQ0Fn\nSUdOaGRHVm5iM0o1T2lCaWFYSjBhR1JoZVFvS0lqSXdOamd0XG5NRFV0TURj\naU9nb2dJQzBnYm1GdFpUb2dJdkNmam9JZ1ZIVnlibVZrSURZMklnb2dJQ0Fn\nWTJGMFpXZHZcbmNuazZJR0pwY25Sb1pHRjVDZ29pTWpBMk9TMHdOUzB3TnlJ\nNkNpQWdMU0J1WVcxbE9pQWk4SitPZ2lCVVxuZFhKdVpXUWdOamNpQ2lBZ0lD\nQmpZWFJsWjI5eWVUb2dZbWx5ZEdoa1lYa0tDaUl5TURjd0xUQTFMVEEzXG5J\nam9LSUNBdElHNWhiV1U2SUNMd240NkNJRlIxY201bFpDQTJPQ0lLSUNBZ0lH\nTmhkR1ZuYjNKNU9pQmlcbmFYSjBhR1JoZVFvS0lqSXdOekV0TURVdE1EY2lP\nZ29nSUMwZ2JtRnRaVG9nSXZDZmpvSWdWSFZ5Ym1Wa1xuSURZNUlnb2dJQ0Fn\nWTJGMFpXZHZjbms2SUdKcGNuUm9aR0Y1Q2dvaU1qQTNNaTB3TlMwd055STZD\naUFnXG5MU0J1WVcxbE9pQWk4SitPZ2lCVWRYSnVaV1FnTnpBaUNpQWdJQ0Jq\nWVhSbFoyOXllVG9nWW1seWRHaGtcbllYa0tDaUl5TURjekxUQTFMVEEzSWpv\nS0lDQXRJRzVoYldVNklDTHduNDZDSUZSMWNtNWxaQ0EzTVNJS1xuSUNBZ0lH\nTmhkR1ZuYjNKNU9pQmlhWEowYUdSaGVRb0tJakl3TnpRdE1EVXRNRGNpT2dv\nZ0lDMGdibUZ0XG5aVG9nSXZDZmpvSWdWSFZ5Ym1Wa0lEY3lJZ29nSUNBZ1ky\nRjBaV2R2Y25rNklHSnBjblJvWkdGNUNnb2lcbk1qQTNOUzB3TlMwd055STZD\naUFnTFNCdVlXMWxPaUFpOEorT2dpQlVkWEp1WldRZ056TWlDaUFnSUNCalxu\nWVhSbFoyOXllVG9nWW1seWRHaGtZWGtLQ2lJeU1EYzJMVEExTFRBM0lqb0tJ\nQ0F0SUc1aGJXVTZJQ0x3XG5uNDZDSUZSMWNtNWxaQ0EzTkNJS0lDQWdJR05o\nZEdWbmIzSjVPaUJpYVhKMGFHUmhlUW9LSWpJd056Y3Rcbk1EVXRNRGNpT2dv\nZ0lDMGdibUZ0WlRvZ0l2Q2Zqb0lnVkhWeWJtVmtJRGMxSWdvZ0lDQWdZMkYw\nWldkdlxuY25rNklHSnBjblJvWkdGNUNnb2lNakEzT0Mwd05TMHdOeUk2Q2lB\nZ0xTQnVZVzFsT2lBaThKK09naUJVXG5kWEp1WldRZ056WWlDaUFnSUNCallY\nUmxaMjl5ZVRvZ1ltbHlkR2hrWVhrS0NpSXlNRGM1TFRBMUxUQTNcbklqb0tJ\nQ0F0SUc1aGJXVTZJQ0x3bjQ2Q0lGUjFjbTVsWkNBM055SUtJQ0FnSUdOaGRH\nVm5iM0o1T2lCaVxuYVhKMGFHUmhlUW9LSWpJd09EQXRNRFV0TURjaU9nb2dJ\nQzBnYm1GdFpUb2dJdkNmam9JZ1ZIVnlibVZrXG5JRGM0SWdvZ0lDQWdZMkYw\nWldkdmNuazZJR0pwY25Sb1pHRjVDZ29pTWpBNE1TMHdOUzB3TnlJNkNpQWdc\nbkxTQnVZVzFsT2lBaThKK09naUJVZFhKdVpXUWdOemtpQ2lBZ0lDQmpZWFJs\nWjI5eWVUb2dZbWx5ZEdoa1xuWVhrS0NpSXlNRGd5TFRBMUxUQTNJam9LSUNB\ndElHNWhiV1U2SUNMd240NkNJRlIxY201bFpDQTRNQ0lLXG5JQ0FnSUdOaGRH\nVm5iM0o1T2lCaWFYSjBhR1JoZVFvS0lqSXdPRE10TURVdE1EY2lPZ29nSUMw\nZ2JtRnRcblpUb2dJdkNmam9JZ1ZIVnlibVZrSURneElnb2dJQ0FnWTJGMFpX\nZHZjbms2SUdKcGNuUm9aR0Y1Q2dvaVxuTWpBNE5DMHdOUzB3TnlJNkNpQWdM\nU0J1WVcxbE9pQWk4SitPZ2lCVWRYSnVaV1FnT0RJaUNpQWdJQ0JqXG5ZWFJs\nWjI5eWVUb2dZbWx5ZEdoa1lYa0tDaUl5TURnMUxUQTFMVEEzSWpvS0lDQXRJ\nRzVoYldVNklDTHdcbm40NkNJRlIxY201bFpDQTRNeUlLSUNBZ0lHTmhkR1Zu\nYjNKNU9pQmlhWEowYUdSaGVRb0tJakl3T0RZdFxuTURVdE1EY2lPZ29nSUMw\nZ2JtRnRaVG9nSXZDZmpvSWdWSFZ5Ym1Wa0lEZzBJZ29nSUNBZ1kyRjBaV2R2\nXG5jbms2SUdKcGNuUm9aR0Y1Q2dvaU1qQTROeTB3TlMwd055STZDaUFnTFNC\ndVlXMWxPaUFpOEorT2dpQlVcbmRYSnVaV1FnT0RVaUNpQWdJQ0JqWVhSbFoy\nOXllVG9nWW1seWRHaGtZWGtLQ2lJeU1EZzRMVEExTFRBM1xuSWpvS0lDQXRJ\nRzVoYldVNklDTHduNDZDSUZSMWNtNWxaQ0E0TmlJS0lDQWdJR05oZEdWbmIz\nSjVPaUJpXG5hWEowYUdSaGVRb0tJakl3T0RrdE1EVXRNRGNpT2dvZ0lDMGdi\nbUZ0WlRvZ0l2Q2Zqb0lnVkhWeWJtVmtcbklEZzNJZ29nSUNBZ1kyRjBaV2R2\nY25rNklHSnBjblJvWkdGNUNnb2lNakE1TUMwd05TMHdOeUk2Q2lBZ1xuTFNC\ndVlXMWxPaUFpOEorT2dpQlVkWEp1WldRZ09EZ2lDaUFnSUNCallYUmxaMjl5\nZVRvZ1ltbHlkR2hrXG5ZWGtLQ2lJeU1Ea3hMVEExTFRBM0lqb0tJQ0F0SUc1\naGJXVTZJQ0x3bjQ2Q0lGUjFjbTVsWkNBNE9TSUtcbklDQWdJR05oZEdWbmIz\nSjVPaUJpYVhKMGFHUmhlUW9LSWpJd09USXRNRFV0TURjaU9nb2dJQzBnYm1G\ndFxuWlRvZ0l2Q2Zqb0lnVkhWeWJtVmtJRGt3SWdvZ0lDQWdZMkYwWldkdmNu\nazZJR0pwY25Sb1pHRjVDZz09XG4ifQoiSnVuIDEzLCAyMDI2IGF0IDE6MTPi\ngK9QTSI6CiAgLSBuYW1lOiAiWXl5IgogICAgZGVzYzogIll5eXl5eSIKICAg\nIGNhdGVnb3J5OiBZeXl5eXk=\n"}
-"Jun 18, 2026 at 1:19 PM":
-  - name: "Uuuu"
-    desc: "Ioii"
-    category: Ioii
+"2002-05-07":
+  - name: "👶 Popped Into Existence"
+    desc: "Born in Kerala and immediately started increasing family expenses."
+    category: birthday
+
+"2003-05-07":
+  - name: "🎂 Level 1 Complete"
+    desc: "Survived the tutorial year."
+    category: birthday
+
+"2004-05-07":
+  - name: "🎂 Turned 2"
+    category: birthday
+
+"2005-05-07":
+  - name: "🎂 Turned 3"
+    category: birthday
+
+"2005-10-05":
+  - name: "✈️ Bahrain Arc Begins"
+    desc: "Packed up and moved to Bahrain."
+    category: life
+
+"2006-04-02":
+  - name: "🎒 School DLC Installed"
+    desc: "Joined IHIS and began the long academic side quest."
+    category: education
+
+"2006-05-07":
+  - name: "🎂 Turned 4"
+    category: birthday
+
+"2007-05-07":
+  - name: "🎂 Turned 5"
+    category: birthday
+
+"2008-05-07":
+  - name: "🎂 Turned 6"
+    category: birthday
+
+"2009-05-07":
+  - name: "🎂 Turned 7"
+    category: birthday
+
+"2009-10-03":
+  - name: "🏥 First Patch Update"
+    desc: "Underwent hernia surgery and got some factory repairs."
+    category: health
+
+"2010-03-01":
+  - name: "🏫 New School, Who Dis?"
+    desc: "Transferred to ISB for the next chapter."
+    category: education
+
+"2010-05-07":
+  - name: "🎂 Turned 8"
+    category: birthday
+
+"2011-05-07":
+  - name: "🎂 Turned 9"
+    category: birthday
+
+"2012-05-07":
+  - name: "🎂 Turned 10"
+    category: birthday
+
+"2013-05-07":
+  - name: "🎂 Turned 11"
+    category: birthday
+
+"2014-04-06":
+  - name: "🍎 Entered The Ecosystem"
+    desc: "Got my first Apple device, an iPad."
+    category: technology
+
+"2014-05-07":
+  - name: "🎂 Turned 12"
+    category: birthday
+
+"2015-05-07":
+  - name: "🎂 Turned 13"
+    category: birthday
+
+"2015-07-11":
+  - name: "🥁 Joined The Band"
+    desc: "Became a bass drummer and discovered loud hobbies."
+    category: hobby
+
+"2016-03-30":
+  - name: "📚 Middle School Escaped"
+    desc: "Completed middle school with most of my sanity intact."
+    category: education
+
+"2016-05-07":
+  - name: "🎂 Turned 14"
+    category: birthday
+
+"2017-05-07":
+  - name: "🎂 Turned 15"
+    category: birthday
+
+"2018-05-07":
+  - name: "🎂 Turned 16"
+    category: birthday
+
+"2019-05-07":
+  - name: "🎂 Turned 17"
+    category: birthday
+
+"2020-02-01":
+  - name: "🦠 The World Paused"
+    desc: "COVID arrived and everyone suddenly became homebodies."
+    category: world
+
+"2020-03-31":
+  - name: "🎓 School: Completed"
+    desc: "Finished high school during peak chaos."
+    category: education
+
+"2020-05-07":
+  - name: "🎂 Turned 18"
+    category: birthday
+
+"2020-06-07":
+  - name: "🏠 Return To Base"
+    desc: "Moved back to Kerala after years in Bahrain."
+    category: life
+
+"2020-10-03":
+  - name: "🎒 College Begins"
+    desc: "Started engineering and a lifelong relationship with deadlines."
+    category: education
+
+"2020-11-20":
+  - name: "🏎️ Hamilton Gets Seven"
+    desc: "Witnessed Lewis Hamilton match Schumacher's record."
+    category: sports
+
+"2021-05-07":
+  - name: "🎂 Turned 19"
+    category: birthday
+
+"2022-01-20":
+  - name: "🤒 COVID Got Me"
+    desc: "Tested positive after dodging it for nearly two years."
+    category: health
+
+"2022-03-12":
+  - name: "💻 First Dev Paycheck"
+    desc: "Started my first developer job at Faatlab."
+    category: career
+
+"2022-05-07":
+  - name: "🎂 Turned 20"
+    category: birthday
+
+"2022-09-01":
+  - name: "👔 Mundu Debut"
+    desc: "Wore a mundu for the first time and somehow survived."
+    category: life
+
+"2023-05-07":
+  - name: "🎂 Turned 21"
+    category: birthday
+
+"2023-06-01":
+  - name: "🚀 Bytsolv Begins"
+    desc: "Started a new chapter at Bytsolv."
+    category: career
+
+"2024-01-31":
+  - name: "📦 Unexpected Freedom"
+    desc: "Got laid off and unlocked a surprise career quest."
+    category: career
+
+"2024-02-11":
+  - name: "💀 Laptop Sacrifice"
+    desc: "Accidentally fried my laptop motherboard."
+    category: technology
+
+"2024-03-20":
+  - name: "🚗 Terrible Day Any%"
+    desc: "Hit a dog and crashed my car in one unforgettable event."
+    category: life
+
+"2024-04-05":
+  - name: "🎓 Degree Acquired"
+    desc: "Graduated with two supplies and zero shame."
+    category: education
+
+"2024-05-07":
+  - name: "🎂 Turned 22"
+    category: birthday
+
+"2024-06-19":
+  - name: "🍎 MacBook Era"
+    desc: "Bought a MacBook Air and voluntarily entered Apple's ecosystem deeper."
+    category: technology
+
+"2024-10-03":
+  - name: "⚕️ StudyMEDIC Arc"
+    desc: "Joined StudyMEDIC as a Backend Engineer."
+    category: career
+
+"2025-05-07":
+  - name: "🎂 Turned 23"
+    category: birthday
+
+"2025-08-11":
+  - name: "🤝 McLynk Is Born"
+    desc: "Co-founded McLynk and signed up for more responsibility."
+    category: start
+
+"2026-05-07":
+  - name: "🎂 Turned 24"
+    category: birthday
+
+"2027-05-07":
+  - name: "🎂 Turned 25"
+    category: birthday
+
+"2028-05-07":
+  - name: "🎂 Turned 26"
+    category: birthday
+
+"2029-05-07":
+  - name: "🎂 Turned 27"
+    category: birthday
+
+"2030-05-07":
+  - name: "🎂 Turned 28"
+    category: birthday
+
+"2031-05-07":
+  - name: "🎂 Turned 29"
+    category: birthday
+
+"2032-05-07":
+  - name: "🎂 Turned 30"
+    category: birthday
+
+"2033-05-07":
+  - name: "🎂 Turned 31"
+    category: birthday
+
+"2034-05-07":
+  - name: "🎂 Turned 32"
+    category: birthday
+
+"2035-05-07":
+  - name: "🎂 Turned 33"
+    category: birthday
+
+"2036-05-07":
+  - name: "🎂 Turned 34"
+    category: birthday
+
+"2037-05-07":
+  - name: "🎂 Turned 35"
+    category: birthday
+
+"2038-05-07":
+  - name: "🎂 Turned 36"
+    category: birthday
+
+"2039-05-07":
+  - name: "🎂 Turned 37"
+    category: birthday
+
+"2040-05-07":
+  - name: "🎂 Turned 38"
+    category: birthday
+
+"2041-05-07":
+  - name: "🎂 Turned 39"
+    category: birthday
+
+"2042-05-07":
+  - name: "🎂 Turned 40"
+    category: birthday
+
+"2043-05-07":
+  - name: "🎂 Turned 41"
+    category: birthday
+
+"2044-05-07":
+  - name: "🎂 Turned 42"
+    category: birthday
+
+"2045-05-07":
+  - name: "🎂 Turned 43"
+    category: birthday
+
+"2046-05-07":
+  - name: "🎂 Turned 44"
+    category: birthday
+
+"2047-05-07":
+  - name: "🎂 Turned 45"
+    category: birthday
+
+"2048-05-07":
+  - name: "🎂 Turned 46"
+    category: birthday
+
+"2049-05-07":
+  - name: "🎂 Turned 47"
+    category: birthday
+
+"2050-05-07":
+  - name: "🎂 Turned 48"
+    category: birthday
+
+"2051-05-07":
+  - name: "🎂 Turned 49"
+    category: birthday
+
+"2052-05-07":
+  - name: "🎂 Turned 50"
+    category: birthday
+
+"2053-05-07":
+  - name: "🎂 Turned 51"
+    category: birthday
+
+"2054-05-07":
+  - name: "🎂 Turned 52"
+    category: birthday
+
+"2055-05-07":
+  - name: "🎂 Turned 53"
+    category: birthday
+
+"2056-05-07":
+  - name: "🎂 Turned 54"
+    category: birthday
+
+"2057-05-07":
+  - name: "🎂 Turned 55"
+    category: birthday
+
+"2058-05-07":
+  - name: "🎂 Turned 56"
+    category: birthday
+
+"2059-05-07":
+  - name: "🎂 Turned 57"
+    category: birthday
+
+"2060-05-07":
+  - name: "🎂 Turned 58"
+    category: birthday
+
+"2061-05-07":
+  - name: "🎂 Turned 59"
+    category: birthday
+
+"2062-05-07":
+  - name: "🎂 Turned 60"
+    category: birthday
+
+"2063-05-07":
+  - name: "🎂 Turned 61"
+    category: birthday
+
+"2064-05-07":
+  - name: "🎂 Turned 62"
+    category: birthday
+
+"2065-05-07":
+  - name: "🎂 Turned 63"
+    category: birthday
+
+"2066-05-07":
+  - name: "🎂 Turned 64"
+    category: birthday
+
+"2067-05-07":
+  - name: "🎂 Turned 65"
+    category: birthday
+
+"2068-05-07":
+  - name: "🎂 Turned 66"
+    category: birthday
+
+"2069-05-07":
+  - name: "🎂 Turned 67"
+    category: birthday
+
+"2070-05-07":
+  - name: "🎂 Turned 68"
+    category: birthday
+
+"2071-05-07":
+  - name: "🎂 Turned 69"
+    category: birthday
+
+"2072-05-07":
+  - name: "🎂 Turned 70"
+    category: birthday
+
+"2073-05-07":
+  - name: "🎂 Turned 71"
+    category: birthday
+
+"2074-05-07":
+  - name: "🎂 Turned 72"
+    category: birthday
+
+"2075-05-07":
+  - name: "🎂 Turned 73"
+    category: birthday
+
+"2076-05-07":
+  - name: "🎂 Turned 74"
+    category: birthday
+
+"2077-05-07":
+  - name: "🎂 Turned 75"
+    category: birthday
+
+"2078-05-07":
+  - name: "🎂 Turned 76"
+    category: birthday
+
+"2079-05-07":
+  - name: "🎂 Turned 77"
+    category: birthday
+
+"2080-05-07":
+  - name: "🎂 Turned 78"
+    category: birthday
+
+"2081-05-07":
+  - name: "🎂 Turned 79"
+    category: birthday
+
+"2082-05-07":
+  - name: "🎂 Turned 80"
+    category: birthday
+
+"2083-05-07":
+  - name: "🎂 Turned 81"
+    category: birthday
+
+"2084-05-07":
+  - name: "🎂 Turned 82"
+    category: birthday
+
+"2085-05-07":
+  - name: "🎂 Turned 83"
+    category: birthday
+
+"2086-05-07":
+  - name: "🎂 Turned 84"
+    category: birthday
+
+"2087-05-07":
+  - name: "🎂 Turned 85"
+    category: birthday
+
+"2088-05-07":
+  - name: "🎂 Turned 86"
+    category: birthday
+
+"2089-05-07":
+  - name: "🎂 Turned 87"
+    category: birthday
+
+"2090-05-07":
+  - name: "🎂 Turned 88"
+    category: birthday
+
+"2091-05-07":
+  - name: "🎂 Turned 89"
+    category: birthday
+
+"2092-05-07":
+  - name: "🎂 Turned 90"
+    category: birthday
