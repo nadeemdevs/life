@@ -196,6 +196,8 @@
   - name: "🍎 MacBook Era"
     desc: "Bought a MacBook Air and voluntarily entered Apple's ecosystem deeper."
     category: technology
+    image: "/images/macbook.jpg"
+
 
 "2024-10-03":
   - name: "⚕️ StudyMEDIC Arc"

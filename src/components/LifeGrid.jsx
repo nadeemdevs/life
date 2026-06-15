@@ -21,7 +21,7 @@ function AgeLabel({ age, year }) {
 function WeekBox({ id, weekStartDate, nextYearDate, eventData, isHovered, onHover, onLeave }) {
   const weekDate = formatISO(weekStartDate);
   const events = getWeekEvents(weekStartDate, nextYearDate, eventData);
-  const eventsWithDesc = events.filter((event) => event.desc);
+  const eventsWithDesc = events.filter((event) => event.desc || event.image);
   const isFuture = isFutureWeek(weekStartDate);
   const hasEvents = events.length > 0;
   const isInteractive = eventsWithDesc.length > 0;

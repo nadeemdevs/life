@@ -15,6 +15,13 @@ function PopoverEvent({ event }) {
         )}
       </h3>
       {event.desc && <p className="week-popover-desc">{event.desc}</p>}
+      {event.image && (
+        <img
+          src={event.image}
+          alt={event.name}
+          className="mt-3 max-h-40 w-full rounded-md object-cover shadow-sm"
+        />
+      )}
     </article>
   );
 }
@@ -48,7 +55,7 @@ export default function WeekPopover({ anchor, events }) {
 
   if (!anchor || events.length === 0) return null;
 
-  const describedEvents = events.filter((event) => event.desc);
+  const describedEvents = events.filter((event) => event.desc || event.image);
   if (describedEvents.length === 0) return null;
 
   return (
