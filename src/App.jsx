@@ -9,7 +9,7 @@ function ConfigError({ message }) {
         <h1 className="text-xl text-neutral-900">Configuration error</h1>
         <p className="mt-4 text-sm leading-relaxed text-neutral-600">{message}</p>
         <pre className="mt-6 overflow-x-auto rounded border border-neutral-200 bg-neutral-50 p-4 text-xs text-neutral-700">
-{`# src/lib/events.js
+          {`# src/lib/events.js
 const START_DATE = "2002-05-07";
 const END_YEAR = 2030;
 
@@ -59,7 +59,7 @@ function AppContent() {
               href="https://waitbutwhy.com/2014/05/life-weeks.html"
               target="_blank"
               rel="noopener noreferrer"
-              className="intro-link"
+              className="intro-link whitespace-nowrap"
             >
               post &#8599;
             </a>

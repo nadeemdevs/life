@@ -1,4 +1,4 @@
-import { useCallback, useState } from "react";
+import { useCallback, useState, useEffect } from "react";
 import {
   addDays,
   formatISO,
@@ -55,6 +55,7 @@ function WeekBox({ id, weekStartDate, nextYearDate, eventData, isHovered, onHove
       className={className}
       onMouseEnter={isInteractive ? handleMouseEnter : undefined}
       onMouseLeave={isInteractive ? onLeave : undefined}
+      onClick={isInteractive ? handleMouseEnter : undefined}
     >
       {hasEvents && (
         <span className="week-label">
@@ -91,6 +92,22 @@ export default function LifeGrid({ startDate, startYear, endYear, eventData }) {
   const [hover, setHover] = useState(null);
 
   const clearHover = useCallback(() => setHover(null), []);
+
+  useEffect(() => {
+    if (!hover) return;
+
+    function handleScroll() {
+      clearHover();
+    }
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    window.addEventListener("touchmove", handleScroll, { passive: true });
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+      window.removeEventListener("touchmove", handleScroll);
+    };
+  }, [hover, clearHover]);
 
   const blocks = [];
 
